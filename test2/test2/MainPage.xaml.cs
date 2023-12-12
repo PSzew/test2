@@ -26,10 +26,5 @@ namespace test2
                
             }
         }
-
-        private void Login_Clicked(object sender, EventArgs e)
-        {
-
-        }
     }
 }
