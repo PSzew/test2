@@ -14,5 +14,10 @@ namespace test2
         {
             InitializeComponent();
         }
+
+        private void Login_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }
