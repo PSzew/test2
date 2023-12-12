@@ -68,7 +68,7 @@
                 VerticalOptions="Center"
                 Text="Zaloguj się"
                 WidthRequest="250"
-                HeightRequest="40"
+                HeightRequest="60"
                 FontSize="25"
                 FontAttributes="Bold"
                 BorderColor="Black"
